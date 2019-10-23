@@ -1,126 +1,211 @@
 {
-  top_menus: [
-    {"id":1,"title":"热门","link":"hot"},
-    {"id":2,"title":"男装","link":"men"},
-    {"id":3,"title":"百货","link":"department"},
-    {"id":4,"title":"运动","link":"#"},
-    {"id":5,"title":"手机","link":"#"},
-    {"id":6,"title":"家纺","link":"#"},
-    {"id":7,"title":"食品","link":"#"},
-    {"id":8,"title":"电器","link":"#"},
-    {"id":9,"title":"鞋包","link":"#"},
-    {"id":10,"title":"汽车","link":"#"},
-    {"id":11,"title":"水果","link":"#"},
-    {"id":12,"title":"电脑","link":"#"},
-    {"id":13,"title":"内衣","link":"#"},
-    {"id":14,"title":"家装","link":"#"},
-    {"id":15,"title":"母婴","link":"#"},
-    {"id":16,"title":"美妆","link":"#"},
-    {"id":17,"title":"家具","link":"#"}
-  ],
-  image_sliders: [
-    {"imgUrl":"https://picsum.photos/id/1/600/400","link":"#","caption":""},
-    {"imgUrl":"https://picsum.photos/id/2/600/400","link":"#","caption":""},
-    {"imgUrl":"https://picsum.photos/id/3/600/400","link":"#","caption":""},
-    {"imgUrl":"https://picsum.photos/id/4/600/400","link":"#","caption":""},
-    {"imgUrl":"https://picsum.photos/id/5/600/400","link":"#","caption":""}
-  ],
-  channels: [
-    {
-      "id":"1004",
-      "title":"Greg",
-      "link":"https://unsplash.com/photos/SSxIGsySh8o",
-      "icon":"https://picsum.photos/id/1004/50/50"
-    },
-    {
-      "id":"1005",
-      "title":"Matthew",
-      "link":"https://unsplash.com/photos/tBtuxtLvAZs",
-      "icon":"https://picsum.photos/id/1005/50/50"
-    },
-    {
-      "id":"1006",
-      "title":"Vladimir",
-      "link":"https://unsplash.com/photos/-wWRHIUklxM",
-      "icon":"https://picsum.photos/id/1006/50/50"
-    },
-    {
-      "id":"1008",
-      "title":"Benjamin",
-      "link":"https://unsplash.com/photos/5L4XAgMSno0",
-      "icon":"https://picsum.photos/id/1008/50/50"
-    },
-    {
-      "id":"1009",
-      "title":"Christopher",
-      "link":"https://unsplash.com/photos/CMWRIzyMKZk",
-      "icon":"https://picsum.photos/id/1009/50/50"
-    },
-    {
-      "id":"101",
-      "title":"Christian",
-      "link":"https://unsplash.com/photos/8lMhzUjD1Wk",
-      "icon":"https://picsum.photos/id/101/50/50"
-    },
-    {
-      "id":"1010",
-      "title":"Samantha",
-      "link":"https://unsplash.com/photos/NaWKMlp3tVs",
-      "icon":"https://picsum.photos/id/1010/50/50"
-    },
-    {
-      "id":"1011",
-      "title":"Roberto",
-      "link":"https://unsplash.com/photos/7BjmDICVloE",
-      "icon":"https://picsum.photos/id/1011/50/50"
-    },
-    {
-      "id":"1004",
-      "title":"Greg",
-      "link":"https://unsplash.com/photos/SSxIGsySh8o",
-      "icon":"https://picsum.photos/id/1004/50/50"
-    },
-    {
-      "id":"1005",
-      "title":"Matthew",
-      "link":"https://unsplash.com/photos/tBtuxtLvAZs",
-      "icon":"https://picsum.photos/id/1005/50/50"
-    },
-    {
-      "id":"1006",
-      "title":"Vladimir",
-      "link":"https://unsplash.com/photos/-wWRHIUklxM",
-      "icon":"https://picsum.photos/id/1006/50/50"
-    },
-    {
-      "id":"1008",
-      "title":"Benjamin",
-      "link":"https://unsplash.com/photos/5L4XAgMSno0",
-      "icon":"https://picsum.photos/id/1008/50/50"
-    },
-    {
-      "id":"1009",
-      "title":"Christopher",
-      "link":"https://unsplash.com/photos/CMWRIzyMKZk",
-      "icon":"https://picsum.photos/id/1009/50/50"
-    },
-    {
-      "id":"101",
-      "title":"Christian",
-      "link":"https://unsplash.com/photos/8lMhzUjD1Wk",
-      "icon":"https://picsum.photos/id/101/50/50"
-    },
-    {
-      "id":"1010",
-      "title":"Samantha",
-      "link":"https://unsplash.com/photos/NaWKMlp3tVs",
-      "icon":"https://picsum.photos/id/1010/50/50"
-    },
-    {
-      "id":"1011",
-      "title":"Roberto",
-      "link":"https://unsplash.com/photos/7BjmDICVloE",
-      "icon":"https://picsum.photos/id/1011/50/50"
-    }
-  ]
+	"top_menus": [{
+			"id": 1,
+			"title": "热门",
+			"link": "hot"
+		},
+		{
+			"id": 2,
+			"title": "男装",
+			"link": "men"
+		},
+		{
+			"id": 3,
+			"title": "百货",
+			"link": "department"
+		},
+		{
+			"id": 4,
+			"title": "运动",
+			"link": "#"
+		},
+		{
+			"id": 5,
+			"title": "手机",
+			"link": "#"
+		},
+		{
+			"id": 6,
+			"title": "家纺",
+			"link": "#"
+		},
+		{
+			"id": 7,
+			"title": "食品",
+			"link": "#"
+		},
+		{
+			"id": 8,
+			"title": "电器",
+			"link": "#"
+		},
+		{
+			"id": 9,
+			"title": "鞋包",
+			"link": "#"
+		},
+		{
+			"id": 10,
+			"title": "汽车",
+			"link": "#"
+		},
+		{
+			"id": 11,
+			"title": "水果",
+			"link": "#"
+		},
+		{
+			"id": 12,
+			"title": "电脑",
+			"link": "#"
+		},
+		{
+			"id": 13,
+			"title": "内衣",
+			"link": "#"
+		},
+		{
+			"id": 14,
+			"title": "家装",
+			"link": "#"
+		},
+		{
+			"id": 15,
+			"title": "母婴",
+			"link": "#"
+		},
+		{
+			"id": 16,
+			"title": "美妆",
+			"link": "#"
+		},
+		{
+			"id": 17,
+			"title": "家具",
+			"link": "#"
+		}
+	],
+	"image_sliders": [{
+			"imgUrl": "https://picsum.photos/id/1/600/400",
+			"link": "#",
+			"caption": ""
+		},
+		{
+			"imgUrl": "https://picsum.photos/id/2/600/400",
+			"link": "#",
+			"caption": ""
+		},
+		{
+			"imgUrl": "https://picsum.photos/id/3/600/400",
+			"link": "#",
+			"caption": ""
+		},
+		{
+			"imgUrl": "https://picsum.photos/id/4/600/400",
+			"link": "#",
+			"caption": ""
+		},
+		{
+			"imgUrl": "https://picsum.photos/id/5/600/400",
+			"link": "#",
+			"caption": ""
+		}
+	],
+	"channels": [{
+			"id": "1004",
+			"title": "Greg",
+			"link": "https://unsplash.com/photos/SSxIGsySh8o",
+			"icon": "https://picsum.photos/id/1004/50/50"
+		},
+		{
+			"id": "1005",
+			"title": "Matthew",
+			"link": "https://unsplash.com/photos/tBtuxtLvAZs",
+			"icon": "https://picsum.photos/id/1005/50/50"
+		},
+		{
+			"id": "1006",
+			"title": "Vladimir",
+			"link": "https://unsplash.com/photos/-wWRHIUklxM",
+			"icon": "https://picsum.photos/id/1006/50/50"
+		},
+		{
+			"id": "1008",
+			"title": "Benjamin",
+			"link": "https://unsplash.com/photos/5L4XAgMSno0",
+			"icon": "https://picsum.photos/id/1008/50/50"
+		},
+		{
+			"id": "1009",
+			"title": "Christopher",
+			"link": "https://unsplash.com/photos/CMWRIzyMKZk",
+			"icon": "https://picsum.photos/id/1009/50/50"
+		},
+		{
+			"id": "101",
+			"title": "Christian",
+			"link": "https://unsplash.com/photos/8lMhzUjD1Wk",
+			"icon": "https://picsum.photos/id/101/50/50"
+		},
+		{
+			"id": "1010",
+			"title": "Samantha",
+			"link": "https://unsplash.com/photos/NaWKMlp3tVs",
+			"icon": "https://picsum.photos/id/1010/50/50"
+		},
+		{
+			"id": "1011",
+			"title": "Roberto",
+			"link": "https://unsplash.com/photos/7BjmDICVloE",
+			"icon": "https://picsum.photos/id/1011/50/50"
+		},
+		{
+			"id": "1004",
+			"title": "Greg",
+			"link": "https://unsplash.com/photos/SSxIGsySh8o",
+			"icon": "https://picsum.photos/id/1004/50/50"
+		},
+		{
+			"id": "1005",
+			"title": "Matthew",
+			"link": "https://unsplash.com/photos/tBtuxtLvAZs",
+			"icon": "https://picsum.photos/id/1005/50/50"
+		},
+		{
+			"id": "1006",
+			"title": "Vladimir",
+			"link": "https://unsplash.com/photos/-wWRHIUklxM",
+			"icon": "https://picsum.photos/id/1006/50/50"
+		},
+		{
+			"id": "1008",
+			"title": "Benjamin",
+			"link": "https://unsplash.com/photos/5L4XAgMSno0",
+			"icon": "https://picsum.photos/id/1008/50/50"
+		},
+		{
+			"id": "1009",
+			"title": "Christopher",
+			"link": "https://unsplash.com/photos/CMWRIzyMKZk",
+			"icon": "https://picsum.photos/id/1009/50/50"
+		},
+		{
+			"id": "101",
+			"title": "Christian",
+			"link": "https://unsplash.com/photos/8lMhzUjD1Wk",
+			"icon": "https://picsum.photos/id/101/50/50"
+		},
+		{
+			"id": "1010",
+			"title": "Samantha",
+			"link": "https://unsplash.com/photos/NaWKMlp3tVs",
+			"icon": "https://picsum.photos/id/1010/50/50"
+		},
+		{
+			"id": "1011",
+			"title": "Roberto",
+			"link": "https://unsplash.com/photos/7BjmDICVloE",
+			"icon": "https://picsum.photos/id/1011/50/50"
+		}
+	]
 }
